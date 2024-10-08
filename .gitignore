@@ -15,6 +15,7 @@
 
 # production
 /build
+*.lockb
 
 # misc
 .DS_Store
