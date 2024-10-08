@@ -69,7 +69,7 @@ const ReviewCard = ({
 
 export function Testimonials() {
   return (
-    <div className="relative flex h-fit w-full flex-col items-center justify-center overflow-hidden rounded-lg bg-background md:shadow-xl pb-12 px-12" id="testimonials">
+    <div className="relative flex h-fit w-full flex-col items-center justify-center overflow-hidden rounded-lg bg-background pb-12 px-12" id="testimonials">
         <div className="max-w-3xl space-y-10 p-12">
             <h1 className="text-center text-5xl font-bold">Testimonials</h1>
             <p className="text-center font-semibold">Working with the outdoor advertising agency was a game-changer for our marketing campaigns. Their innovative ideas and strategic placements helped us reach a wider audience and increase brand visibility.</p>
