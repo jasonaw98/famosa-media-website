@@ -3,10 +3,8 @@ import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 import { HeroParallaxDemo } from "@/components/HeroParallax";
 import Navbar from "@/components/Navbar";
-import { StickyScrollRevealDemo } from "@/components/StickyScroll";
 import TabsSection from "@/components/TabsSection";
 import { Testimonials } from "@/components/Testimonials";
-import Image from "next/image";
 
 export default function Home() {
   return (
